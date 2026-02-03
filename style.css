@@ -1,0 +1,19 @@
+.container { 
+  max-width: 1000px;
+  margin: 50px 200px 50px 200px;
+}
+body{
+  background-image: url('./backgrounds/banner.png')
+}
+header {text-align: center;
+  font-family: "Courier New"
+}
+nav {
+  border: lightskyblue 3px solid
+}
+main {
+border: lightskyblue 3px dashed
+}
+footer{
+border: lightskyblue 3px solid
+}
